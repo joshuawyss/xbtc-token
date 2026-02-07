@@ -1,0 +1,11 @@
+{
+  "name": "XBTC Panic",
+  "symbol": "XBTC",
+  "description": "A meme coin about Bitcoin doing what it does best: going up, going down, and making everyone nervous. No promises. Just vibes.",
+  "image": "https://github.com/joshuawyss/xbtc-token/blob/main/logo.png",
+  "external_url": "",
+  "attributes": [
+    { "trait_type": "Type", "value": "Meme Coin" },
+    { "trait_type": "Supply", "value": "21,000,000" }
+  ]
+}
